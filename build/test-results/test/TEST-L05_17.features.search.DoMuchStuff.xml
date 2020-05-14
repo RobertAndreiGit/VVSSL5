@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="L05_17.features.search.DoMuchStuff" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-14T15:46:56" hostname="DESKTOP-86LHGHJ" time="16.554">
+  <properties/>
+  <testcase name="test_scenariu[0]" classname="L05_17.features.search.DoMuchStuff" time="16.554"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+May 14, 2020 6:46:57 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+May 14, 2020 6:46:57 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+1589471218505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Robert\\AppData\\Local\\Temp\\rust_mozprofileUPXs9I"
+1589471219511	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589471219535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589471219535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589471219536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589471219536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589471222029	Marionette	INFO	Listening on port 63238
+1589471222327	Marionette	WARN	TLS certificate errors will be ignored for this session
+May 14, 2020 6:47:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://static.okr.ro/js/+/js/jquery/jquery_comp_prototype.js+/js/jquery/ajax-0.0.5.js+/js/okazii.js+/js/okazii/utils.js+/js/www/home.js+/js/www/help.js+/js/www/home_catalog.js+/js/www/home_boxes.js+/js/jquery/jquery.carousel.min.js+/js/jquery/jquery.accordion.js+/js/www/tracking.js+/js/www/header.js+/js/jquery/typeahead.bundle.min.js+/js/autocomplete.js+/js/www/Analytics.js+/js/okazii/tracking.js+/js/jquery/jquery.jcarousel.min.js+/js/jquery/jquery.waypoints.min.js+/js/www/slick.min.js+/js/www/okaziiJsUtils.js/script.v988.js, line 297: unreachable code after return statement
+JavaScript warning: https://static.okr.ro/js/+/js/jquery/ajax-0.0.5.js+/js/www/modernizr-2.6.2.min.js+/js/www/detectizr.min.js+/js/www/okaziiJsUtils.js+/js/www/listing.js+/js/www/catalog.js+/js/www/contul-meu/activitate/favorite/add_search.js+/js/www/help.js+/js/atribute/control/type/checkbox.js+/js/atribute/control/type/radio.js+/js/atribute/control.js+/js/atribute/control/list.js+/js/atribute/popup/tab.js+/js/atribute/popup/tab/list.js+/js/atribute/popup.js+/js/atribute/filters.js+/js/atribute/attributes.js+/js/okazii.js+/js/okazii/utils.js+/js/www/zone/common.js+/js/www/home_catalog.js+/js/jquery/liquid.js+/js/www/catalog/popup-gallery.js+/js/www/catalog/watchlist.js+/js/owl-carousel/owl.carousel.js+/js/www/new-piv/scroll.js+/js/bootstrap/bootstrap-select.js+/js/flexslider/jquery.flexslider.js+/js/www/slick.min.js+/js/jquery/jquery.textToCanvas.js+/js/www/listing/new-listing.js+/js/okazii/notifier.js+/js/jquery/jquery_comp_prototype.js+/js/jquery/jquery.carousel.min.js+/js/jquery/jquery.accordion.js+/js/www/tracking.js+/js/www/header.js+/js/jquery/typeahead.bundle.min.js+/js/autocomplete.js+/js/www/Analytics.js+/js/okazii/tracking.js+/js/jquery/jquery.jcarousel.min.js+/js/jquery/jquery.waypoints.min.js/script.v988.js, line 407: unreachable code after return statement
+JavaScript warning: https://static.okr.ro/js/+/js/jquery/ajax-0.0.5.js+/js/www/modernizr-2.6.2.min.js+/js/www/detectizr.min.js+/js/www/okaziiJsUtils.js+/js/www/listing.js+/js/www/catalog.js+/js/www/contul-meu/activitate/favorite/add_search.js+/js/www/help.js+/js/atribute/control/type/checkbox.js+/js/atribute/control/type/radio.js+/js/atribute/control.js+/js/atribute/control/list.js+/js/atribute/popup/tab.js+/js/atribute/popup/tab/list.js+/js/atribute/popup.js+/js/atribute/filters.js+/js/atribute/attributes.js+/js/okazii.js+/js/okazii/utils.js+/js/www/zone/common.js+/js/www/home_catalog.js+/js/jquery/liquid.js+/js/www/catalog/popup-gallery.js+/js/www/catalog/watchlist.js+/js/owl-carousel/owl.carousel.js+/js/www/new-piv/scroll.js+/js/bootstrap/bootstrap-select.js+/js/flexslider/jquery.flexslider.js+/js/www/slick.min.js+/js/jquery/jquery.textToCanvas.js+/js/www/listing/new-listing.js+/js/okazii/notifier.js+/js/jquery/jquery_comp_prototype.js+/js/jquery/jquery.carousel.min.js+/js/jquery/jquery.accordion.js+/js/www/tracking.js+/js/www/header.js+/js/jquery/typeahead.bundle.min.js+/js/autocomplete.js+/js/www/Analytics.js+/js/okazii/tracking.js+/js/jquery/jquery.jcarousel.min.js+/js/jquery/jquery.waypoints.min.js/script.v988.js, line 445: unreachable code after return statement
+JavaScript warning: https://static.okr.ro/js/+/js/jquery/init.js+/js/jquery/ajax-0.0.5.js+/js/okazii.js+/js/okazii/utils.js+/js/www/okaziiJsUtils.js+/js/www/jquery.elevateZoom.min.js+/js/www/slick.min.js+/js/www/auction.js+/js/www/jcarousellite_1.0.1.js+/js/jquery/jquery.lightbox-0.5.min.js+/js/www/help.js+/js/www/contul-meu/activitate/favorite/add_sellers.js+/js/atribute/atribute.js+/js/jquery/jquery.lwtCountdown-1.0.js+/js/www/galerie_produs_new.js+/js/jquery/jquery_comp_prototype.js+/js/jquery/jquery.carousel.min.js+/js/jquery/jquery.accordion.js+/js/www/tracking.js+/js/www/header.js+/js/jquery/typeahead.bundle.min.js+/js/autocomplete.js+/js/www/Analytics.js+/js/jquery/jquery.zoom.modified.js+/js/jquery/jcarousellite_1.0.1.js+/js/jquery/jquery.jcarousel.min.js+/js/okazii/tracking.js+/js/jquery/jquery.waypoints.min.js+/js/okazii/notifier.js+/js/www/catalog/watchlist.js/script.v988.js, line 504: unreachable code after return statement
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://static.okr.ro/js/+/js/jquery/init.js+/js/jquery/ajax-0.0.6.js+/js/jquery/scrollto/jquery.scrollTo.min.js+/js/jquery/jquery_comp_prototype.js+/js/jquery/jquery.carousel.min.js+/js/jquery/jquery.accordion.js+/js/www/tracking.js+/js/www/header.js+/js/jquery/typeahead.bundle.min.js+/js/autocomplete.js+/js/www/Analytics.js+/js/bootstrap/bootstrap-select.js+/js/www/okaziiJsUtils.js+/js/www/cart/cart.js+/js/www/help.js+/js/www/cart/visible.js+/js/okazii/tracking.js+/js/jquery/jquery.jcarousel.min.js+/js/jquery/jquery.waypoints.min.js+/js/www/slick.min.js/script.v988.js, line 755: unreachable code after return statement
+1589471233857	Marionette	INFO	Stopped listening on port 63238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+]]></system-err>
+</testsuite>

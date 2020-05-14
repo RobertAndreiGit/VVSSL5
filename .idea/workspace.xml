@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ccd9fdf-6f0f-41ea-9503-c5d9f3cfaf82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -950,7 +949,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589471146867" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589471609164" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -981,7 +980,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -990,7 +989,7 @@
             <option value="build" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="-Dwebdriver.gecko.driver=&quot;F:\Scoala\gecko\geckodriver.exe&quot;" />
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
@@ -1074,9 +1073,9 @@
     </configuration>
     <list>
       <item itemvalue="Maven.L0517 [test]" />
+      <item itemvalue="Gradle.L0517 [build]" />
       <item itemvalue="JUnit.SearchByKeywordStory" />
       <item itemvalue="JUnit.SearchByKeywordStory.login_valid" />
-      <item itemvalue="Gradle.L0517 [build]" />
       <item itemvalue="JUnit.DoMuchStuff" />
       <item itemvalue="JUnit.All in L0517_test" />
     </list>
@@ -1104,7 +1103,7 @@
       <workItem from="1589385594724" duration="237000" />
       <workItem from="1589385983188" duration="69000" />
       <workItem from="1589386113528" duration="13889000" />
-      <workItem from="1589469658147" duration="1471000" />
+      <workItem from="1589469658147" duration="1840000" />
     </task>
     <servers />
   </component>
@@ -1141,11 +1140,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15897000" />
+    <option name="totallyTimeSpent" value="16266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15831557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1156,7 +1154,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989059" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1164,8 +1162,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30802602" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.33296824" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30802602" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="14" />
@@ -1178,7 +1176,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.22014925" />
-      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="Gradle" order="9" visible="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
