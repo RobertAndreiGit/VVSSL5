@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ccd9fdf-6f0f-41ea-9503-c5d9f3cfaf82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -99,7 +99,7 @@
           <entry key="dummy" value="8" />
           <entry key="gradle" value="9" />
           <entry key="java" value="1728" />
-          <entry key="properties" value="7" />
+          <entry key="properties" value="8" />
           <entry key="txt" value="1" />
           <entry key="xml" value="12" />
         </counts>
@@ -110,7 +110,7 @@
           <entry key="Groovy" value="9" />
           <entry key="JAVA" value="1728" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Properties" value="7" />
+          <entry key="Properties" value="8" />
           <entry key="XML" value="12" />
         </counts>
       </usages-collector>
@@ -139,7 +139,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="237">
@@ -160,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -965,8 +965,8 @@
         <option value="$PROJECT_DIR$/src/test/java/L05_17/features/search/DoMuchStuff.java" />
         <option value="$PROJECT_DIR$/src/test/java/L05_17/features/search/SearchByKeywordStory.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
       </list>
     </option>
   </component>
@@ -1298,7 +1298,7 @@
       <workItem from="1589385983188" duration="69000" />
       <workItem from="1589386113528" duration="13889000" />
       <workItem from="1589469658147" duration="3119000" />
-      <workItem from="1589472875890" duration="422000" />
+      <workItem from="1589472875890" duration="1373000" />
     </task>
     <servers />
   </component>
@@ -1335,7 +1335,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17967000" />
+    <option name="totallyTimeSpent" value="18918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1372,7 +1372,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.22014925" />
-      <window_info anchor="right" id="Gradle" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1485,17 +1485,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
