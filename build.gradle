@@ -2,16 +2,30 @@ repositories {
     jcenter {
         url "http://jcenter.bintray.com/"
     }
-    maven { url 'http://repo1.maven.org/maven2' }
+    maven {
+        url 'http://repo1.maven.org/maven2'
+    }
 }
 
 buildscript {
     repositories {
-        mavenLocal()
-        jcenter()
+        jcenter {
+            url "http://jcenter.bintray.com/"
+        }
+        maven {
+            url 'http://repo1.maven.org/maven2'
+        }
     }
     dependencies {
         classpath("net.serenity-bdd:serenity-gradle-plugin:2.0.81")
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter {
+            url "http://jcenter.bintray.com/"
+        }
     }
 }
 
